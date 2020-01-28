@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### GIS PROHECT 1
 
 [GIS PROJECT 1](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
