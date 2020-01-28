@@ -6,7 +6,6 @@
 
 [GIS PROJECT 1](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 [GIS PROJECT 2](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
