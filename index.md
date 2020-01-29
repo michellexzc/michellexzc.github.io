@@ -5,7 +5,9 @@
 ### GIS PROJECT 1
 
 [GIS PROJECT 1](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="https://github.com/michellexzc/michellexzc.github.io/blob/master/lab5part1a-merged.pdf"/>
+
 ---
 [GIS PROJECT 2](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
