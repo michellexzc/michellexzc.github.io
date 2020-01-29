@@ -6,7 +6,7 @@
 
 [GIS PROJECT 1](/sample_page)
 
-<img src="https://github.com/michellexzc/michellexzc.github.io/blob/master/lab5part1a-merged.pdf"/>
+<img src="images/project1.JPG"/>
 
 ---
 [GIS PROJECT 2](/pdf/sample_presentation.pdf)
