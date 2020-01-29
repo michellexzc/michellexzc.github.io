@@ -3,8 +3,8 @@
 ### GIS PROJECT 1 
 
 <p align="center">
-   <a href="ok">Link 1</a> |
-Correlation between vacant housing and rats
+   <a href="pdf/lab5part1a-merged.pdf">Link 1</a> |
+Correlation between Vacant Housing and Rats in Baltimore
 
 <img src="images/project1.JPG"/>
 
