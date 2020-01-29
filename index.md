@@ -1,10 +1,10 @@
 ## Portfolio
-
 ---
+### GIS PROJECT 1 
 
-### GIS PROJECT 1
-
-[GIS PROJECT 1](/sample_page)
+<p align="center">
+   <a href="ok">Link 1</a> |
+Correlation between vacant housing and rats
 
 <img src="images/project1.JPG"/>
 
