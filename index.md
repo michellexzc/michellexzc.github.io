@@ -1,6 +1,5 @@
 ## Portfolio
 ---
-<p align="center">
 <img src="images/ya2.JPG"/>
 <br>
 *Project done to analyze the correlation between vacant housing/lots in Baltimore with the influx of rats from 2017 and 2018. Hexagonal maps used to normalize region in order to decrease disparity. Check out this 
