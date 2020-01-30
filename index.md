@@ -8,9 +8,9 @@
   
 Project done to analyze the correlation between vacant housing/lots in Baltimore with the influx of rats from 2017 and 2018. Hexagonal maps used to normalize region in order to decrease disparity. 
 <br>
----
+----------
 <p align="center">
-<a href="pdf/practical2_pt1-merged.pdf">Full Project</a> | Correlation between Pumpkin Risk Factors and Demogorgan Sightings
+<a href="pdf/practical2_pt1-merged.pdf">Full Project</a> | Risk Charts and Network Analysis
 <br><br>
 <img src="images/practical.JPG"/>
 <br>
