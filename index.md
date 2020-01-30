@@ -2,7 +2,7 @@
 ---
 <p align="center">
 <img src="images/ya2.JPG"/>
-<p align=center>
+<p align="center">
 <a href="pdf/lab5part1a-merged.pdf">Full Project</a> | Correlation between Vacant Housing and Rats in Baltimore
 <br>   
 *Project done to analyze the correlation between vacant housing/lots in Baltimore with the influx of rats from 2017 and 2018. Hexagonal maps used to normalize region in order to decrease disparity. Check out this 
