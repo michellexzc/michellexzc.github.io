@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-<p align="center">
+<p align=center>
 <a href="pdf/lab5part1a-merged.pdf">Full Project</a> | Correlation between Vacant Housing and Rats in Baltimore
 <br>
 <p align="center">
