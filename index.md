@@ -4,7 +4,8 @@
 [link](https://www.esri.com/about/newsroom/insider/thematic-mapping-with-hexagons/)
 to learn more about hexagonal maps!*
 <br>
-<img src="images/ya2.JPG"/>
+<p align="center">
+   <img src="images/ya2.JPG"/>
 <p align="center">
    <a href="pdf/lab5part1a-merged.pdf">Full Project</a> |
 Correlation between Vacant Housing and Rats in Baltimore
