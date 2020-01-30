@@ -8,7 +8,7 @@ to learn more about hexagonal maps!*
    <a href="pdf/lab5part1a-merged.pdf">Link 1</a> |
 Correlation between Vacant Housing and Rats in Baltimore
    <br><br>  
-<img src="images/project1.JPG"/>
+<img src="images/ya2.JPG"/>
 
 ---
 [GIS PROJECT 2](/pdf/sample_presentation.pdf)
