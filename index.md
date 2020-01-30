@@ -15,19 +15,8 @@ Project done to analyze the correlation between vacant housing/lots in Baltimore
 <img src="images/practical.JPG"/>
 <br>
   
-Fictional project done by adding several risk factors together to create a risk chart in order to provide evidence against Demogorgans.
+Fictional project done by adding several risk factors together to create a spatial distribution risk chart in order to provide evidence against Demogorgans. Use of network analysis in ArcGIS.
 <br>
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
