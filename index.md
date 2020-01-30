@@ -5,10 +5,12 @@
 to learn more about hexagonal maps!*
 <br>
 <p align="center">
-   <img src="images/ya2.JPG"/>
-<p align="center">
    <a href="pdf/lab5part1a-merged.pdf">Full Project</a> |
 Correlation between Vacant Housing and Rats in Baltimore
+<br>
+<p align="center">
+   <img src="images/ya2.JPG"/>
+
 ---
 [GIS PROJECT 2](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
