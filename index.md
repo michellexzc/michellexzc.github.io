@@ -6,7 +6,7 @@
 <img src="images/ya2.JPG"/>
 <br>
   
-*Project done to analyze the correlation between vacant housing/lots in Baltimore with the influx of rats from 2017 and 2018. Hexagonal maps used to normalize region in order to decrease disparity. 
+Project done to analyze the correlation between vacant housing/lots in Baltimore with the influx of rats from 2017 and 2018. Hexagonal maps used to normalize region in order to decrease disparity. 
 <br>
 ---
 <p align="center">
@@ -15,13 +15,8 @@
 <img src="images/practical.JPG"/>
 <br>
   
-*Project done to analyze the correlation between vacant housing/lots in Baltimore with the influx of rats from 2017 and 2018. Hexagonal maps used to normalize region in order to decrease disparity.
-
----
-[GIS PROJECT 3](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+Fictional project done by adding several risk factors together to create a risk chart in order to provide evidence against Demogorgans.
+<br>
 
 ### Category Name 2
 
