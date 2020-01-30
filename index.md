@@ -10,7 +10,7 @@
 <br>
 ---
 <p align="center">
-<a href="pdf/lab5part1a-merged.pdf">Full Project</a> | Risk Factor 
+<a href="pdf/practical2_pt1-merged.pdf">Full Project</a> | Risk Factor 
 <br><br>
 <img src="images/practical.JPG"/>
 <br>
