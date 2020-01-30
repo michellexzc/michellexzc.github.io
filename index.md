@@ -10,7 +10,7 @@ Project done to analyze the correlation between vacant housing/lots in Baltimore
 <br>
 ---
 <p align="center">
-<a href="pdf/practical2_pt1-merged.pdf">Full Project</a> | Risk Factor 
+<a href="pdf/practical2_pt1-merged.pdf">Full Project</a> | Correlation between Pumpkin Risk Factors and Demogorgan Sightings
 <br><br>
 <img src="images/practical.JPG"/>
 <br>
