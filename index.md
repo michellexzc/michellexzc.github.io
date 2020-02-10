@@ -1,8 +1,10 @@
 ## Portfolio
 ---
-
-### [Correlation between Vacant Housing and Rat Sightings in Baltimore](/pdf/lab5part1a-merged.pdf)
-**Project done to analyze the correlation between vacant housing/lots in Baltimore with the influx of rats from 2017 and 2018. Hexagonal maps used to normalize region in order to decrease disparity.** 
+<p align="center">
+<a href="pdf/lab5part1a-merged.pd">Full Project</a> | Correlation between Vacant Housing and Rat Sightings in Baltimore
+<br><br>
+<img src="images/ya2.JPG"/>
+*Project done to analyze the correlation between vacant housing/lots in Baltimore with the influx of rats from 2017 and 2018. Hexagonal maps used to normalize region in order to decrease disparity.*
 Check out this [link](https://www.esri.com/about/newsroom/insider/thematic-mapping-with-hexagons/ "Thematic Mapping") to learn more about mapping with hexagons!
 <img src="images/ya2.JPG"/>
 <br>
