@@ -1,6 +1,7 @@
 ## GIS Portfolio
 ---
-<a href="/gisprojects/index">About</a> | <a href="pdf/lab5part1a-merged.pdf">Full Project</a> | Correlation between Vacant Housing and Rat Sightings in Baltimore
+<p align=center>
+<a href="/gisprojects/index">About</a> | <a href="pdf/lab5part1a-merged.pdf">Full Project</a> 
 <br><br>
 <img src="images/ya2.JPG"/>
 <br>
