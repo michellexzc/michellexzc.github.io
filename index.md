@@ -1,6 +1,5 @@
 ## Portfolio
 ---
-<p align="center">
 <a href="pdf/lab5part1a-merged.pd">Full Project</a> | Correlation between Vacant Housing and Rat Sightings in Baltimore
 <br><br>
 <img src="images/ya2.JPG"/>
@@ -24,5 +23,3 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
-
-(&#x1F34E;)
