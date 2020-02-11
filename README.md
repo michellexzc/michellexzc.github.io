@@ -1,7 +1,7 @@
 ## Michelle Chan
 The deployed front-end of this repository is accessible at [michellexzc.github.io](https://michellexzc.github.io/)
 
-My website is [michellexzc.io](https://michellexzc.io)
+*My website is [michellexzc.io](https://michellexzc.io)*
 
 **This is an demostration portfolio for GES 486/687 Advanced GIS.** 
 
