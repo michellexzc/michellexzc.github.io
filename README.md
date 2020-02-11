@@ -1,17 +1,13 @@
-## Developer Portfolio Landing Page Template
+## Michelle Chan
+The deployed front-end of this repository is accessible at [michellexzc.github.io](https://michellexzc.github.io/)
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+My website is [michellexzc.io](https://michellexzc.io)
 
-<img src="images/demo.gif?raw=true"/>
+**This is an demostration portfolio for GES 486/687 Advanced GIS.** 
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+This setup is based on instructions by [Ivanna Kacewica](https://blog.usejournal.com/@evanca) on how to [Set Up Your Portfolio Website in Less Than 10 Minutes with Github Pages](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd). The base minimal theme has [excellent documentation](https://github.com/pages-themes/minimal) for customizing.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Markdown Reference
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
