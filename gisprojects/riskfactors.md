@@ -3,6 +3,6 @@
 <br>
 <br>
 Check out the rest of my project here! --><a href="/pdf/practical2_pt1-merged.pdf">Full Project</a> 
+<img src="/images/riskscores.JPG"/>
 
-/images/riskscores.JPG
 
