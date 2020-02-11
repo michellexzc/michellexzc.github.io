@@ -10,7 +10,7 @@ Hexagonal Maps | <a href="/gisprojects/index">About</a> | <a href="pdf/lab5part1
   
 <br>
 ----------
-<a href="pdf/practical2_pt1-merged.pdf">Full Project</a> | Risk and GIS Network Analysis
+Risk and GIS Network Analysis | <a href="/gisprojects/gis">About</a> |<a href="pdf/practical2_pt1-merged.pdf">Full Project</a> | 
 <br><br>
 <img src="images/practical.JPG"/>
 <br>
