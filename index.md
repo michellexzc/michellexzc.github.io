@@ -12,10 +12,9 @@ Generate Tessellation and Hexagonal Maps | <a href="/gisprojects/index">About</a
 ----------
 <br>
 Risk and GIS Network Analysis | <a href="/gisprojects/riskfactors">About</a> | <a href="pdf/practical2_pt1-merged.pdf">Full Project</a>  
-<br><br>
+<br>
 <img src="images/practical.JPG"/>
 <br>
-  
 *Fictional project done by adding several risk factors together to create a spatial distribution risk chart in order to provide evidence against Demogorgans. Use of network analysis in ArcGIS.*
 <br>
 
