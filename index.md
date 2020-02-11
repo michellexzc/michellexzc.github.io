@@ -7,8 +7,6 @@ Generate Tessellation and Hexagonal Maps | <a href="/gisprojects/index">About</a
 *Project done to analyze the correlation between vacant housing/lots in Baltimore with the influx of rats from 2017 and 2018. Hexagonal maps used to normalize region in order to decrease disparity.*
 *Check out this [link](https://www.esri.com/about/newsroom/insider/thematic-mapping-with-hexagons/ "Thematic Mapping") to learn more about mapping with hexagons!*
 <br>
-  
-<br>
 ----------
 <br>
 Risk and GIS Network Analysis | <a href="/gisprojects/riskfactors">About</a> | <a href="pdf/practical2_pt1-merged.pdf">Full Project</a>  
