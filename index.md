@@ -9,7 +9,7 @@ Generate Tessellation and Hexagonal Maps | <a href="/gisprojects/index">About</a
 <br>
 ----------
 <br>
-Risk and GIS Network Analysis | <a href="/gisprojects/riskfactors">About</a> | <a href="pdf/practical2_pt1-merged.pdf">Full Project</a>  
+Risk Assessment and GIS Network Analysis | <a href="/gisprojects/riskfactors">About</a> | <a href="pdf/practical2_pt1-merged.pdf">Full Project</a>  
 <br>
 <img src="images/practical.JPG"/>
 <br>
