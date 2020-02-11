@@ -4,5 +4,5 @@
 <br>
 Check out the rest of my project here! --><a href="/pdf/lab5part1a-merged.pdf">Full Project</a> 
 
-*More information:* Due to the low perimeter to area ratio of the hexagon shape, hexagon maps reduce sampling bias. They are the most circular shaped polygon that is able to tessellate in order to form an evenly spaced grid. 
-<a href="https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/h-whyhexagons.htm">More information on hexagon maps</a> 
+*More information:* *Due to the low perimeter to area ratio of the hexagon shape, hexagon maps reduce sampling bias. They are the most circular shaped polygon that is able to tessellate in order to form an evenly spaced grid. 
+<a href="https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/h-whyhexagons.htm">More information on hexagon maps.</a>* 
