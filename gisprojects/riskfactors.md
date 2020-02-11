@@ -4,5 +4,6 @@
 <br>
 Check out the rest of my project here! --><a href="/pdf/practical2_pt1-merged.pdf">Full Project</a> 
 <img src="/images/riskscores.JPG"/>
-
+<br>
+**_More information:_** *Risk assessment in GIS is often used to map regions that can be affected by natural catastrophes like earthquakes, hurricanes, and floods. It is relevant for case studies that are location dependent and usually have a range of uncertainty associated. <a href="https://www.geospatialworld.net/article/gis-risk-assessment/f">More about the use of Risk Assessment in GIS.</a>*
 
