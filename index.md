@@ -19,7 +19,7 @@ Risk and GIS Network Analysis | <a href="/gisprojects/riskfactors">About</a> | <
 *Fictional project done by adding several risk factors together to create a spatial distribution risk chart in order to provide evidence against Demogorgans. Use of network analysis in ArcGIS.*
 <br>
 
-
+ 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
