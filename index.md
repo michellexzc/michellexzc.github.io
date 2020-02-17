@@ -1,5 +1,6 @@
 ## GIS Portfolio
 ---
+<img src="/mappp.qgs"/>
 Generate Tessellation and Hexagonal Maps | <a href="/gisprojects/index">About</a> | <a href="pdf/lab5part1a-merged.pdf">Full Project</a> 
 <br><br>
 <img src="images/ya2.JPG"/>
