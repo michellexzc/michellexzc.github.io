@@ -1,4 +1,4 @@
-What is the topic?
+What is the topic?  
 - Predicted coronavirus hotspots in Maryland. 
 
 What are the data and where is the data obtained from (provide links too)?
@@ -16,6 +16,8 @@ What is the analysis you'll be performing on your data sets?
 What outputs will you be creating and how are they directly connected to the class
 - I will be creating 4 different rasters in order to add them together to create a risk map. 
 
+All statistics were performed in QGIS. Vector > Analysis Tools > Basic Statistics for Fields 
+
 Creation of Map in QGIS (Expression builder)
 Maryland Census Tract (Polygon to raster, pick attribute field)
 - people ages 30 - 80: used expression builder: OutRas = Con(("MEANAGE" >= 30) & ("MEANAGE" <= 80), 1, 0)
@@ -24,3 +26,6 @@ Maryland Census Tract (Polygon to raster, pick attribute field)
 
 Center for Disease Control  
 - Heart disease per 1000 beneficiary mean 131: expression builder: OutRas = Con('1mdheart", 1, 0, "VALUE > 131)
+
+Data analysis:
+- Due to high population density in Baltimore, it seems Baltimore County has most risk. 
