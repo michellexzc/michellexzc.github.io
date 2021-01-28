@@ -17,9 +17,10 @@ Risk Assessment and GIS Network Analysis | <a href="/gisprojects/riskfactors">Ab
 <br>
 ----------
 <br>
-New Project: U.S. Human Influence Index | <a href="/pdf/U.S. Human Influence Index.pdf">New Project</a>
+
+New Project: U.S. Human Influence Index | <a href="/pdf/U.S. Human Influence Index.pdf">New Project</a> |
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
 <br>
 *New project done to determine the amount human impact on land. By combining population, land use, infrastructure, and human access, a map was generated to analyze high density areas of impact.*
+<br>
