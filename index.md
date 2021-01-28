@@ -15,8 +15,8 @@ Risk Assessment and GIS Network Analysis | <a href="/gisprojects/riskfactors">Ab
 <br>
 *Fictional project done by adding several risk factors together to create a spatial distribution risk chart in order to provide evidence against Demogorgans. Use of network analysis in ArcGIS.*
 <br>
-
-<a href="/pdf/U.S. Human Influence Index.pdf">New Project</a>
+----------
+New Project: U.S. Human Infudence Index | <a href="/pdf/U.S. Human Influence Index.pdf">New Project</a>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
