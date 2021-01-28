@@ -1,7 +1,7 @@
 What is the topic?  
 - Predicted coronavirus hotspots in Maryland. 
 
-What are the data and where is the data obtained from (provide links too)?
+What are the data and where is the data obtained from (links included). 
 - Prior research was done to determine factors that increased transmission rate and fatalities.
   https://www.statnews.com/2020/03/03/who-is-getting-sick-and-how-sick-a-breakdown-of-coronavirus-risk-by-demographic-factors/
   https://www.health.harvard.edu/blog/as-coronavirus-spreads-many-questions-and-some-answers-2020022719004
