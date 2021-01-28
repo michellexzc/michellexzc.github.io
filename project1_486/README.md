@@ -28,4 +28,4 @@ Center for Disease Control
 - Heart disease per 1000 beneficiary mean 131: expression builder: OutRas = Con('1mdheart", 1, 0, "VALUE > 131)
 
 Data analysis:
-- Due to high population density in Baltimore, it seems Baltimore County has most risk. 
+- Due to high population density in Baltimore, it seems Baltimore County has the most risk. 
